@@ -13,7 +13,7 @@ Right now I'm working on some projects related to my degree, with a special focu
 - 🚗 Former member of ETeam Squadra Corse
 - 📈 Enthusiast about data analysis in the particle physics framework
 
----
+<!---
 
 ## 📈 GitHub Stats
 
@@ -21,7 +21,7 @@ Right now I'm working on some projects related to my degree, with a special focu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatildeBattisti&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
 </p>
 
----
+--->
 
 ## 📫 Let's connect!
 
