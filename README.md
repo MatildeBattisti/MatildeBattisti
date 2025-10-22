@@ -2,7 +2,7 @@
 
 I'm a **Master's student in Data Analysis in Experimental Physics** at University of Pisa.
 
-I have been part of University of Pisa's Formula Student team,**E-Team Squadra Corse**, for **a year and a half**, working in the **Driverless Division**, where I contributed to the development of an autonomous racing vehicle.
+I have been part of University of Pisa's Formula Student team, **E-Team Squadra Corse**, for **a year and a half**, working in the **Driverless Division**, where I contributed to the development of an autonomous racing vehicle.
 
 Right now I'm working on some projects related to my degree, with a special focus on particle physics!
 
