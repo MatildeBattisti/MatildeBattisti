@@ -9,9 +9,9 @@ Right now I'm working on some projects related to my degree, with a special focu
 ---
 ## ✨ About me
 
-🎓 BC's Degree in Physics at University of Pisa
-🚗 Former member of ETeam Squadra Corse
-📈 Enthusiast about data analysis in the particle physics framework
+- 🎓 BC's Degree in Physics at University of Pisa
+- 🚗 Former member of ETeam Squadra Corse
+- 📈 Enthusiast about data analysis in the particle physics framework
 
 ---
 
