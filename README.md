@@ -7,6 +7,7 @@ I have been part of University of Pisa's Formula Student team, **E-Team Squadra 
 Right now I'm working on some projects related to my degree, with a special focus on particle physics!
 
 ---
+
 ## ✨ About me
 
 - 🎓 BC's Degree in Physics at University of Pisa
@@ -22,6 +23,7 @@ Right now I'm working on some projects related to my degree, with a special focu
 </p>
 
 --->
+---
 
 ## 📫 Let's connect!
 
