@@ -11,7 +11,7 @@ Right now I'm working on some projects related to my degree, with a special focu
 ## ✨ About me
 
 - 🎓 BC's Degree in Physics at University of Pisa
-- 🚗 Former member of ETeam Squadra Corse
+- 🚗 Member of ETeam Squadra Corse from march 2024 to october 2025
 - 📈 Enthusiast about data analysis in the particle physics framework
 
 <!---
